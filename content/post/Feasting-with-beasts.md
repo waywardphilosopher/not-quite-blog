@@ -1,7 +1,10 @@
 ---
-title:  "Feasting with beasts"
-date:   2021-04-05
-tags: [animals]
+title: Feasting with beasts
+subtitle: Inter-species hospitality
+date: 2021-04-05
+tags:
+  - animals
+  - hospitality
 ---
 
 In *Hello, Stranger*, I'd planned a chapter on hospitality in the animal kingdom — between humans and other animals, but also outside of the human realm altogether. It was going to be called "Feasting with Beasts." Musk-rats snuggling down with beavers (I think that was in some David Attenborough show years back). 
