@@ -1,9 +1,15 @@
 ---
 title: Future, fate and free will
-subtitle: The universe surprises Itself....
+subtitle: The universe surprises itself....
 date: 2021-04-06
-tags: [divination, determinism, lucretius, fate, free-will]
-categories: [ideas]
+tags:
+  - divination
+  - determinism
+  - lucretius
+  - fate
+  - free-will
+categories:
+  - ideas
 ---
 
 Divination is not just about knowing the future in advance. It's also about knowing how to manage the present — and perhaps also how to manage the past.
