@@ -11,4 +11,4 @@ A curious definition of divination from Plato's *Symposium* 188 c-d:
 
 Divination is mediation. And as love is itself (as Diotima claims) that which is “between mortal and immortal”, that which opens a channel of communication between the two, divination belongs to love (as much as it belongs to knowledge). Also note: divination (like love) is associated with [not being in your right mind](https://www.notquiteablog.com/post/plato-divination-madness/) (*Timaeus* 71e).
 
-But the *keeping watch* is interesting here. Divination has a regulatory function (what does “the effects of Love on justice and piety” actually mean…?), helping to maintain the “proper kind of love.” Peter Struck doesn't talk much about this in his book — favouring a focus on knowledge / surplus knowledge.
+But the *keeping watch* is interesting here. The idea that divination has a regulatory function (what does “the effects of Love on justice and piety” actually mean…?), helping to maintain the “proper kind of love.” Peter Struck doesn't talk much about this in his book — favouring a focus on knowledge / surplus knowledge.
