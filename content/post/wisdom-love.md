@@ -1,7 +1,11 @@
 ---
-title: Wisdom, Love and Philosophy
+title: Wisdom, love and philosophy
+subtitle: Is philosophy the love of wisdom, or is it the wisdom of love?
 date: 2021-04-08
-tags: [philosophy, wisdom, love]
+tags:
+  - philosophy
+  - wisdom
+  - love
 ---
 
 Returning to some old notes on wisdom and love in the philosophy, for a class I'm writing. And they still seem relevant to my interests. 
