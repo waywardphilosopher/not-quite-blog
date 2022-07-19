@@ -6,6 +6,8 @@ tags:
   - philosophy
   - wisdom
   - love
+  - calvino
+  - levinas
 ---
 
 Returning to some old notes on wisdom and love in the philosophy, for a class I'm writing. And they still seem relevant to my interests. 
