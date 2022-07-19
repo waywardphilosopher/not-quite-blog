@@ -49,6 +49,11 @@ h1,h2,h3,h4,h5,h6 {
   font-family: 'Playfair Display', 'Times New Roman', serif;
   font-weight: 800;
 }
+
+
+h2 {padding-top: 25px;
+  padding-bottom: 5px;}
+
 a {
   color: #008AFF;
 }
