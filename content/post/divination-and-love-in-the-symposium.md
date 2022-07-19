@@ -1,7 +1,11 @@
 ---
-title: Divination and Love in the Symposium
-date: 2022-07-19
+title: Divination and love in the Symposium
 subtitle: Divination belongs as much to love as to knowledge
+date: 2022-07-19
+tags:
+  - plato
+  - love
+  - divination
 ---
 A curious definition of divination from Plato's *Symposium* 188 c-d:
 
