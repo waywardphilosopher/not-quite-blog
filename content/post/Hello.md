@@ -1,6 +1,10 @@
 ---
 title: Reading over my shoulder
+subtitle: What this site is about
 date: 2021-04-04
+tags:
+  - tech
+  - philosophy
 ---
 
 Hi. I'm Dr. [Will Buckingham](https://www.willbuckingham.com), a writer and philosopher originally from the UK. And this is my newest project (as of the time of writing): a *not-quite* blog that I'm setting up as an experiment in writing and thinking out loud. You can see this not-quite-blog as a personal notebook, but one where you can read over my shoulder (and who doesn't like reading over other people's shoulders?).
