@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "346115cf5058c88e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2353455327fc04ef",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b9a9b6716def7e89",
+    "type": "split",
+    "children": [
+      {
+        "id": "86954985d6a38c69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc64a04ac44243d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4dc89f5580a17c77",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#divination",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "509b7c70c90f1c84",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1a81d3770721f448",
+    "type": "split",
+    "children": [
+      {
+        "id": "667e9efdd9deea32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c421d6f7e6d48c6e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e4fa1d04d5a3ad76",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df2a81816165e188",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bdcca13de536fc1f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2353455327fc04ef",
+  "lastOpenFiles": [
+    "wisdom-love.md",
+    "future-fate-and-free-will.md",
+    "hello.md",
+    "plato-divination-madness.md",
+    "Feasting-with-beasts.md",
+    "divination-and-love-in-the-symposium.md",
+    "cicero-universal-divination.md",
+    "36-divination-methods.md",
+    "Untitled.md"
+  ]
+}
