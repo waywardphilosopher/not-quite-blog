@@ -6,7 +6,7 @@ date: 2022-07-25
 tags: [divination, yijing, china, play]
 
 ---
-This paper was written for the 2022 *Yijing World Summit Forum*. It's about play and divination, and it won the 2002 first prize for essays on the Yijing (优秀易经论文一等奖).
+This paper was written for the 2022 *Yijing World Summit Forum*. It's about play and divination, and it won the 2022 first prize for essays on the Yijing (优秀易经论文一等奖).
 
 *This is a draft of the paper that I gave as a recorded video, so isn't in final form. I could find a place to publish it, but I'm too lazy and/or have other things to be getting on with, so I'm going to just share it here.*
 

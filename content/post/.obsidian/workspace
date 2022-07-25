@@ -7,12 +7,8 @@
         "id": "647d98d02f01557f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "playing-with-prognostications.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "playing-with-prognostications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "playing-with-prognostications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "playing-with-prognostications.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -130,6 +122,7 @@
   },
   "active": "647d98d02f01557f",
   "lastOpenFiles": [
+    "playing-with-prognostications.md",
     "playing-with-prognostications.md.md",
     "in-pursuit-baba-vanga.md",
     "future-fate-and-free-will.md",
@@ -138,7 +131,6 @@
     "hello.md",
     "plato-divination-madness.md",
     "divination-and-love-in-the-symposium.md",
-    "cicero-universal-divination.md",
-    "36-divination-methods.md"
+    "cicero-universal-divination.md"
   ]
 }
