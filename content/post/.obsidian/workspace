@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2353455327fc04ef",
+        "id": "647d98d02f01557f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "in-pursuit-baba-vanga.md",
+            "file": "playing-with-prognostications.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "in-pursuit-baba-vanga.md",
+                "file": "playing-with-prognostications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "in-pursuit-baba-vanga.md",
+                "file": "playing-with-prognostications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "in-pursuit-baba-vanga.md"
+                "file": "playing-with-prognostications.md"
               }
             }
           }
@@ -128,16 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2353455327fc04ef",
+  "active": "647d98d02f01557f",
   "lastOpenFiles": [
-    "wisdom-love.md",
+    "playing-with-prognostications.md.md",
+    "in-pursuit-baba-vanga.md",
     "future-fate-and-free-will.md",
+    "Feasting-with-beasts.md",
+    "wisdom-love.md",
     "hello.md",
     "plato-divination-madness.md",
-    "Feasting-with-beasts.md",
     "divination-and-love-in-the-symposium.md",
     "cicero-universal-divination.md",
-    "36-divination-methods.md",
-    "Untitled.md"
+    "36-divination-methods.md"
   ]
 }
