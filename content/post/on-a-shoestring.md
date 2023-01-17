@@ -38,7 +38,7 @@ I read JavaScript like I read German: on a good day I can pick my way through an
 
 Emboldened by my modest successes, I started to think about my two remaining newsletters for Wind&Bones and my own website, WillBuckingham.com. 
 
-Here, Buttondown was an option again, but as I sent these newsletters so infrequently, I wanted something a bit cheaper still — more pay-as-you-go than subscription-based. After a bit of searching, I stumbled across [Mailbluster](https://mailbluster.com/), which is a super-affordable tool for sending emails. I spent a day or so tweaking my Buttondown integration scripts, faced down the beast that is Amazon and got their SES up and running (Simple Email Service, which for the technologically challenged is something of a misnomer), and managed to get both newsletters working on my test server.
+Here, Buttondown was an option again, but as I sent these newsletters so infrequently, I wanted something a bit cheaper still — more pay-as-you-go than subscription-based. After a bit of searching, I stumbled across [MailBluster](https://mailbluster.com/), which is a super-affordable tool for sending emails. I spent a day or so tweaking my Buttondown integration scripts to work instead with MailBluster, faced down the beast that is Amazon and got their SES up and running (Simple Email Service, which for the technologically challenged is something of a misnomer), and managed to get both newsletters working on my test server.
 
 So over the last 24 hours, I have moved both remaining newsletters over to the new system. And so far, they are working well.
 
