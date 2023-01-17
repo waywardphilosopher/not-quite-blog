@@ -26,7 +26,7 @@ Hugo is fast, database-free, and when the sites are pushed to Github and deploye
 
 Getting to grips with Hugo was something of a learning curve. But once I got the hang of it, I was smitten with its elegance. Of all my sites, Looking for Wisdom was the most troublesome to migrate, largely because of the amount of content: 250,000 words, over 100 philosophy articles, and countless images and links to check. 
 
-And now it's all done, I can say that it's been worth it. All of my sites are now happily built with Hugo, they're looking pretty nice, and they have no ongoing running costs (other than domain names).
+But now it's all done, I can say that it's been worth it. All of my sites are now happily built with Hugo, they're looking pretty nice, and they have no ongoing running costs (other than domain names).
 
 ### Newsletters on a shoestring
 
