@@ -8,7 +8,7 @@ tags:
   - newsletters
 ---
 
-For various reasons, I've not updated this site for about six months. The second half of 2022 was super-busy, and so I didn't have much time to post here. But in the background, I've been busy. And one of the things I've been doing is overhauling a lot of the stuff I do online.
+For various reasons, I've not updated this site for about six months. The second half of 2022 was super-busy, and so I didn't have much time to post here. But in the background, I've been making a lot of changes. And one of the things I've been doing is overhauling a lot of the stuff I do online.
 
 ### Consolidating the empire 
 
