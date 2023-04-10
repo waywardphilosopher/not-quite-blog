@@ -3,7 +3,7 @@
 title: Strange Happenings in Japan
 subtitle: A Translation from Taiwanese #1
 date: 2023-04-10
-tags: [taiwanese, translation, myth, story]
+tags: [taiwanese, translation, myth, story, hokkien]
 
 ---
 
