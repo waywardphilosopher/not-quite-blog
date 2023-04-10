@@ -1,7 +1,7 @@
 ---
 
 title: Strange Happenings in Japan
-subtitle: A Translation from Taiwanesey
+subtitle: A Translation from Taiwanese
 date: 2023-04-10
 tags: [taiwanese, translation, myth, story]
 
@@ -17,7 +17,7 @@ I've posted the story in parts. Each part has the Taiwanese version in POJ roman
 
 Finally, at the end, I've put a full, clean translation.
 
-I'm only about four months into studying Taiwanese, so this is rough and ready. But it's been fun and interesting to play with.
+I'm only about four months into studying Taiwanese, so this is rough and ready. But it's been fun and interesting to play with. Let me know if there are any tricky sections that I've got wrong, or that I could improve.
 
 ---
 
@@ -75,9 +75,9 @@ Kóng liáu chiū chò i khí-sin,  lóng bô pòaⁿ-îⁿ só͘-hùi hō͘ i ;
 
 講了就做伊起身，攏無半圓所費hō͘伊；hit個店主也m̄敢kā伊提。聽候到明仔再就真正the̍h50錢下tī 廟--ni̍h試看，到後日來看，果然有變一百。下到幾若日，猶原是án-ni，chāi hit個店主不止深信啦。
 
-> Having said this he got up to leave (khí-sin), and didn't even give half a cent (pòaⁿ-îⁿ) in expenses (só͘-hùi) to the innkeeper. The innkepper also didn't dare detain him? When the next day arrived (Thèng-hāu kàu bîn-á-chài), he again donated 50 pieces of money to the temple, to see what would happen (chhì-khòaⁿ ). And when the day after that (āu--ji̍t) arrived, it turned out (kó-jiân) that it changed (pìⁿ) into 100.
+> Having said this he got up to leave (khí-sin), and didn't even give half a cent (pòaⁿ-îⁿ) in expenses (só͘-hùi) to the innkeeper. The innkeeper also didn't dare detain him? When the next day arrived (Thèng-hāu kàu bîn-á-chài), he again donated 50 pieces of money to the temple, to see what would happen (chhì-khòaⁿ ). And when the day after that (āu--ji̍t) arrived, it turned out (kó-jiân) that it changed (pìⁿ) into 100.
 >
-> For the next few (kúi-nā) days, the same happened as before (iû-guân), so the innkeper was believed (chhim-sìn) very much (put-chí)...
+> For the next few (kúi-nā) days, the same happened as before (iû-guân), so the innkeeper was believed (chhim-sìn) very much (put-chí)...
 
 ---
 
@@ -97,7 +97,7 @@ About ten years ago, in a village in Japan, a stranger went to stay in a guestho
 
 When he wanted to rest, he asked the innkeeper to wake him at eleven the next day. The innkeeper, in line with the man's request, went the next day to call him, and there he saw, coiling from out of the bed, the tail of a fox. He was struck with fear, and without a further thought, he fled, assuming that his guest was almost certainly a demon.
 
-But then he thought to himself: he has asked me to wake him, so if I don't do so, I'm afraid I will be held to account, and he will blame me. So he had no alternative to to oncde again go into the room. And there he saw the guest sitting in bed, smoking.
+But then he thought to himself: he has asked me to wake him, so if I don't do so, I'm afraid I will be held to account, and he will blame me. So he had no alternative but to once again go into the room. And there he saw the guest sitting in bed, smoking.
 
 The guest saw the innkeeper's astonishment, and so he asked him, "What have you come in here to see?"
 
@@ -105,12 +105,12 @@ At first the innkeeper didn't dare to speak. He could only make his excuses, say
 
 But then the guest said, "You have certainly seen something, so you should tell me clearly, right away! So after that, the innkeeper told him honestly "I saw a fox's tail!"
 
-The guest then replied, "Hm...mmmm, now you seen it, I might as well tell you the truth. I am really an old fox, and I usually stay in the mountains; but at the moment, I'm here on business.
+The guest then replied, "Hm... mmmm, now you seen it, I might as well tell you the truth. I am really an old fox, and I usually stay in the mountains; but at the moment, I'm here on business.
 
 Everything you have seen and heard — all of this, you absolutely must keep quiet about! But if you really do this, then whenever you give money to the temple, I will give you double.
 
-Having said this, he got up to leave, and didn't even give half a cent in expenses to the innkeeper. The innkepper also didn't dare detain him. The next day, the innkeeper gave fifty coins to the temple, to see what would happen. The day after that, he found of that the money had changed into one hundred coins. .
+Having said this, he got up to leave, and didn't even give half a cent in expenses to the innkeeper. The innkeeper also didn't dare detain him. The next day, the innkeeper gave fifty coins to the temple, to see what would happen. The day after that, he found of that the money had changed into one hundred coins. .
 
-For the next few days, the same happened as before, so the innkeper lost all his scepticism. But then his heart turned to greed. So he gathered together 100 coins, and offered those to the temple. When he went to check the next day, not only had the money not increased, but all the money had had put in had gone. Nevertheless, the innkeeper didn't lose hope. He tried again, going to checkthe next day, and still there was nothing... 
+For the next few days, the same happened as before, so the innkeeper lost all his scepticism. But then his heart turned to greed. So he gathered together 100 coins, and offered those to the temple. When he went to check the next day, not only had the money not increased, but all the money had had put in had gone. Nevertheless, the innkeeper didn't lose hope. He tried again, going to check the next day, and still there was nothing... 
 
 From that moment on, he knew he had been fooled by a swindler. In reality, this person was not a fox. Instead, he was somebody who knew how much people valued this kind of superstition, and who sought out their weaknesses so he could defraud them.
