@@ -1,15 +1,11 @@
 ---
-title:Strange Happenings in Japan
-subtitle: A Translation from Taiwanese
+
+title: Strange Happenings in Japan
+subtitle: A Translation from Taiwanesey
 date: 2023-04-10
-tags:
-  - Taiwanese
-  - translation
-  - myth
-  - stories
+tags: [taiwanese, translation, myth, story]
+
 ---
-
-
 
 # Strange Happenings in Japan: Translation from Taiwanese #1
 
