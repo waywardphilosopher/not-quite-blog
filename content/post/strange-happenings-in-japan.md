@@ -7,8 +7,6 @@ tags: [taiwanese, translation, myth, story]
 
 ---
 
-# Strange Happenings in Japan: Translation from Taiwanese #1
-
 I've been having fun learning a little Taiwanese lately. And because there are not that many materials around, I've been rummaging around online to find some older texts that I can translate. This is language-learning by diving in at the deep end. And it's been done largely for my own entertainment.
 
 The text here comes form the [Digital Archive Database for Wirtten Taiwanese](http://ip194097.ntcu.edu.tw/nmtl/dadwt/pbk.asp). It is a story about fox spirits and swindlers in Japan, first published in January 1886 in the Tainan Prefectural Church Newspaper (台南府城教會報第7張， 1886年1月). It's kind of fun. 
