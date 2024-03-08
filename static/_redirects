@@ -3,4 +3,4 @@
 /	https://www.willbuckingham.com	301!
 
 # This will redirect all blog posts to corresponding post on WillBuckingham.com
-/*	https://www.willbuckingham.com/:splat	301!
+/posts/*	https://www.willbuckingham.com/:splat	301!
