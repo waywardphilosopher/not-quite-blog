@@ -2,5 +2,11 @@
 
 /	https://www.willbuckingham.com	301!
 
+# This will direct the about page
+/about/#/	https://www.willbuckingham.com/about	301!
+
+# This will redirect the tags
+/tags/#/	https://www.willbuckingham.com	301!
+
 # This will redirect all blog posts to corresponding post on WillBuckingham.com
 /post/*	https://www.willbuckingham.com/:splat	301!
